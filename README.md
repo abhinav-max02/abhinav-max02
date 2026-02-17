@@ -1,98 +1,68 @@
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Abhinav Reddy</a>'s Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
-</p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
-</ul>
-
-#### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-```
-
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
-
-#### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
-
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
 </p>
 
-#### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-<!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤝🏻 &nbsp;Connect with Me
 
-#### I'm an Early 🐤
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-```
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
-#### I Spent My Time On
-```text
-💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
-CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
-
-💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
-```
-------
-Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
-Last Edited on: 25/09/2021.
+Last Edited on: 11/12/2020
